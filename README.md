@@ -2,7 +2,8 @@
 
 This repo contains a dataset for use in benchmarking tumor-immune deconvolution methods. 
 
-#### Data:
+#### Data description:
+
 For five non-small cell lung cancer FFPE tumors, 20+ regions of interest were identified per tumor. 
 In adjacent sections from each tumor, the GeoMx protein assay and the GeoMx RNA assay were run on matching regions. 
 In each region, pure tumor (PanCK+ stain) and pure microenvironment(PanCK-) segments were collected separately. 
